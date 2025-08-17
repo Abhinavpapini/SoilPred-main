@@ -149,13 +149,6 @@ SoilPred-main/
 - **Output**: Plant type classification
 - **Validation**: Built-in input validation for data integrity
 
-## 👥 Contact
-
-For any queries or support:
-- **Email**: dtteam4@gmail.com
-- **Version**: 1.0
-- **Team**: DT Team 4
-
 ## 🚧 Future Enhancements
 
 - Add more plant types to the dataset
